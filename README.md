@@ -1,3 +1,3 @@
-## Welcome to <jusx>
+## Welcome
 
-Experimental for now to see how github pages work.
+Experimental blog for now to see how github pages work.
