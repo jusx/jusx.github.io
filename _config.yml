@@ -1,3 +1,6 @@
-theme: jekyll-theme-tactile
 title: Evolving Perceptions
-description: perceptions by &lt;jusx&gt
+theme: really-simple
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
