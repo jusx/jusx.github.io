@@ -4,7 +4,7 @@ date: 2017-11-23
 permalink: getting-naked
 ---
 
-![Naked man staring into the distance](https://c1.staticflickr.com/3/2861/32378615514_db09aa5b12_c.jpg)
+![Naked man staring into the distance](assets/getting-naked.jpg)
 
 <small>Photo credit to [Urkkur Lopez](https://www.flickr.com/photos/68163375@N04/32378615514/sizes/l)</small>
 
