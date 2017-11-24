@@ -1,6 +1,6 @@
 ---
 title: Getting Naked
-date: 2017-11-22
+date: 2017-11-23
 permalink: getting-naked
 ---
 
