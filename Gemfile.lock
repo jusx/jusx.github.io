@@ -191,7 +191,7 @@ GEM
     rb-fsevent (0.10.2)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
-    really-simple (0.2.1)
+    really-simple (0.3.0)
       jekyll (~> 3.6)
     rouge (2.2.1)
     safe_yaml (1.0.4)
