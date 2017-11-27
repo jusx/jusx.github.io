@@ -1,6 +1,11 @@
-title: Evolving Perceptions
 theme: really-simple
+
+title: Evolving Perceptions
+google_analytics: UA-110207751-1
+
+repository: jusx/jusx.github.io
 
 exclude:
   - Gemfile
   - Gemfile.lock
+  - bin
