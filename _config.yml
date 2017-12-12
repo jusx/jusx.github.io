@@ -3,6 +3,7 @@ theme: really-simple
 title: Evolving Perceptions
 google_analytics: UA-110207751-1
 
+baseurl: ""
 repository: jusx/jusx.github.io
 
 exclude:

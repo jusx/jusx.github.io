@@ -4,9 +4,9 @@ date: 2017-11-23
 permalink: getting-naked
 ---
 
-![Naked man staring into the distance](assets/getting-naked.jpg)
+![Naked man staring into the distance](assets/8042538365_b44b21a6aa_c.jpg)
 
-<small>Photo credit to [Urkkur Lopez](https://www.flickr.com/photos/68163375@N04/32378615514/sizes/l)</small>
+<small>Photo credit to [jacktlin](https://www.flickr.com/photos/jacktlin/8042538365/sizes/c/)</small>
 
 <big>I</big>n the early years of the web (circa 1994), I published a web page with a list of my newly discovered favorite web sites and maybe an article or two. I was the first at my university to have a personal website.
 
