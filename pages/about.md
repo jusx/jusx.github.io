@@ -1,4 +1,8 @@
-# about
+---
+permalink: about
+menu_item: true
+---
+# About
 
 I am Justin. Some people call me [Jus (juice)](https://en.wiktionary.org/wiki/jus).
 
@@ -8,4 +12,4 @@ Whether it be building software or teams, making a positive impact on people is 
 
 I believe in _building things that really matter_.
 
-Say hello. Connect with me on [LinkedIn](https://www.linkedin.com/in/justinqlaw), [Instagram](https://instagram.com/jusx), [Github](https://github.com/jusx) or [Twitter](https://twitter.com/jusx). 
+Say hello. Connect with me on [LinkedIn](https://www.linkedin.com/in/justinqlaw), [Instagram](https://instagram.com/jusx), [Github](https://github.com/jusx) or [Twitter](https://twitter.com/jusx).
